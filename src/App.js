@@ -11,7 +11,7 @@ function App() {
         <Navbar/>
         <div className="content">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/ReactFirstBlogApp/">
               <Home/>
             </Route>
             <Route exact path="/create">
@@ -28,7 +28,7 @@ function App() {
 }
 
 export default App;
-
+https://kkknight-12.github.io/
 // //////////////////
 /* without rout */ //
 /////////////////////
