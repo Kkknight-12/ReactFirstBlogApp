@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First React Website",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero non, vitae fuga nemo minima rem dolorum. Illo voluptas delectus voluptatem, accusamus molestiae vel. Consectetur iste quo quam blanditiis corporis magnam ullam, illo, modi dolor, ab repudiandae dicta odit impedit voluptate molestiae quae officia. Magnam explicabo maiores dolor sequi, suscipit possimus.",
+      "author": "knight",
+      "id": 1
+    },
+    {
+      "title": "Fun Time",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero non, vitae fuga nemo minima rem dolorum. Illo voluptas delectus voluptatem, accusamus molestiae vel. Consectetur iste quo quam blanditiis corporis magnam ullam, illo, modi dolor, ab repudiandae dicta odit impedit voluptate molestiae quae officia. Magnam explicabo maiores dolor sequi, suscipit possimus.",
+      "author": "Luffy",
+      "id": 3
+    }
+  ]
+}
