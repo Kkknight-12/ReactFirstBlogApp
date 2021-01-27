@@ -24,7 +24,7 @@ const Create = () => {
             setIsPending(false);
 
             // history.go(-1);
-            history.push('/')
+            history.push('/ReactFirstBlogApp/')
         })
     }
     return ( 

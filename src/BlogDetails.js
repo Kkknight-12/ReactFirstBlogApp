@@ -11,7 +11,7 @@ const BlogDetails = () => {
         fetch( "http://localhost:8000/blogs/" + id, {
             method: 'DELETE'
         }).then(()=> 
-        history.push('/'))
+        history.push('/ReactFirstBlogApp/'))
     }
 
     return ( 
