@@ -6,7 +6,7 @@ const Navbar = () => {
         <h1> Blog</h1>
         <div className="links"></div>
         <div className="links">
-            <Link to="/">Home</Link>
+            <Link to="/ReactFirstBlogApp/">Home</Link>
             <Link to="/create" style={
             {
                 color: "white",

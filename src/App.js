@@ -28,7 +28,7 @@ function App() {
 }
 
 export default App;
-https://kkknight-12.github.io/
+
 // //////////////////
 /* without rout */ //
 /////////////////////
